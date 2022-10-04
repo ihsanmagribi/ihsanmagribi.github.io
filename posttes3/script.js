@@ -6,3 +6,4 @@ if(masuk == true){
 else{
     console.log("batal");
 }
+
